@@ -2,7 +2,7 @@
 
 Apenas um projeto exemplo para facilitar a compreensão de quem está iniciando os estudos com gulp e sass.
 
-1. Instale o módulo global do Gulp as dependências do projeto executando os seguintes comandos a partir da raíz do projeto
+1. Instale o módulo global do Gulp e as dependências do projeto executando os seguintes comandos a partir da raíz do projeto
 
 ```
 npm install -g gulp
